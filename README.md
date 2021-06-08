@@ -1,7 +1,3 @@
-<div>
-      <img src="Assets/Logo/Logo.jfif" alt="Game Logo" height="200" >      
-</div>
-
 # Unity - Appartment
 
 ## About The Project
